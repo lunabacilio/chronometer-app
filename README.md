@@ -4,7 +4,7 @@
 > You have 2 ways to deploy in Docker:
 ```
 ```
-##* First
+## * First
 Clone the repository:
   git clone https://github.com/jlunabacilio/chronometer-app.git
 
@@ -18,7 +18,7 @@ Run and enjoy the app:
   docker run -d -p 80:80 chrono
 ```
 ```
-##* Second
+## * Second
 Use the image:
   docker pull jlunabacilio/cronownginx
 
