@@ -1,7 +1,7 @@
 # Chronometer
 ```
 > This is my first app,
-> You have 2 ways to deploy in Docker:
+> You have two ways to deploy in Docker:
 ```
 ### * First
 ```
