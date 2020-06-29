@@ -1,4 +1,4 @@
-# cronometro
+# Chronometer
 ```
 > This is my first app,
 > You have 2 ways to deploy in Docker:
