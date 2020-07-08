@@ -3,7 +3,7 @@
 This is my first app and <br>
 You have two ways to deploy in Docker:
 
-## * First
+## First
 
 Clone the repository:
 ```
@@ -21,7 +21,7 @@ Run and enjoy the app:
 ```
   docker run -d -p 80:80 chrono
 ```
-### * Second
+## Second
 
 Use the image:
 ```
