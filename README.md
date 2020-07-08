@@ -1,8 +1,8 @@
 # Chronometer
-```
-> This is my first app,
-> You have two ways to deploy in Docker:
-```
+
+This is my first app and <br>
+You have two ways to deploy in Docker:
+
 ### * First
 ```
 Clone the repository:
