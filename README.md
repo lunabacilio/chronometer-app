@@ -25,7 +25,7 @@ Run and enjoy the app:
 
 Use the image:
 ```
-  docker pull jlunabacilio/cronownginx
+  docker pull jlunabacilio/chrono
 ```
 Run and enjoy the app:
 ```
