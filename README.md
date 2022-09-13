@@ -31,3 +31,7 @@ Run and enjoy the app:
 ```
   docker run -d -p 80:80 chrono
 ```
+
+Making undesired changes:
+
+V1
