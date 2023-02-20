@@ -1,12 +1,12 @@
 pipeline {
     agent any
     stages {
-        stage('Test') {
+        stage('Build') {
             steps {
-                sh 'pwd'
+                sh 'docker build -t cronow/nginx .'
             }
         }
-        stage('Deploy') {
+        stage('Run') {
             steps {
                 sh 'ls -la'
             }
