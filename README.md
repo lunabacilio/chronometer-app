@@ -31,3 +31,5 @@ Run and enjoy the app:
 ```
   docker run -d -p 80:80 chrono
 ```
+
+![example](images/chrono.png)
